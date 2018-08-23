@@ -1,0 +1,2 @@
+Las imagenes en las otras carpetas deberan ir en la raiz junto al
+index
